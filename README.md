@@ -44,15 +44,15 @@ This repo covers fundamental concepts, data structures, and algorithms to solve 
 
 Each module contains quizzes to test your understanding of the concepts. You can find the quizzes in the `quizzes/` folder for each module.
 
-- **Module 1 Quiz**: [module1-quiz.md](./quizzes/module1-quiz.md)
-- **Module 2 Quiz**: [module2-quiz.md](./quizzes/module2-quiz.md)
-- **Module 3 Quiz**: [module3-quiz.md](./quizzes/module3-quiz.md)
-- **Module 4 Quiz**: [module4-quiz.md](./quizzes/module4-quiz.md)
-- **Module 5 Quiz**: [module5-quiz.md](./quizzes/module5-quiz.md)
-- **Module 6 Quiz**: [module6-quiz.md](./quizzes/module6-quiz.md)
-- **Module 7 Quiz**: [module7-quiz.md](./quizzes/module7-quiz.md)
-- **Module 8 Quiz**: [module8-quiz.md](./quizzes/module8-quiz.md)
-- **Module 9 Quiz**: [module9-quiz.md](./quizzes/module9-quiz.md)
+- **Module 1 Quiz**: [module1-quiz.md](./quizzes/module01-quiz.md)
+- **Module 2 Quiz**: [module2-quiz.md](./quizzes/module02-quiz.md)
+- **Module 3 Quiz**: [module3-quiz.md](./quizzes/module03-quiz.md)
+- **Module 4 Quiz**: [module4-quiz.md](./quizzes/module04-quiz.md)
+- **Module 5 Quiz**: [module5-quiz.md](./quizzes/module05-quiz.md)
+- **Module 6 Quiz**: [module6-quiz.md](./quizzes/module06-quiz.md)
+- **Module 7 Quiz**: [module7-quiz.md](./quizzes/module07-quiz.md)
+- **Module 8 Quiz**: [module8-quiz.md](./quizzes/module08-quiz.md)
+- **Module 9 Quiz**: [module9-quiz.md](./quizzes/module09-quiz.md)
 - **Module 10 Quiz**: [module10-quiz.md](./quizzes/module10-quiz.md)
 - **Module 11 Quiz**: [module11-quiz.md](./quizzes/module11-quiz.md)
 - **Module 12 Quiz**: [module12-quiz.md](./quizzes/module12-quiz.md)
@@ -71,15 +71,15 @@ learn-dsa-with-java/
 ├── .gitignore                    # Git ignore file for Java projects
 ├── LICENSE                       # License file (e.g., MIT License)
 ├── quizzes/                      # Folder for quizzes across all modules
-│   ├── module1-quiz.md
-│   ├── module2-quiz.md
-│   ├── module3-quiz.md
-│   ├── module4-quiz.md
-│   ├── module5-quiz.md
-│   ├── module6-quiz.md
-│   ├── module7-quiz.md
-│   ├── module8-quiz.md
-│   ├── module9-quiz.md
+│   ├── module01-quiz.md
+│   ├── module02-quiz.md
+│   ├── module03-quiz.md
+│   ├── module04-quiz.md
+│   ├── module05-quiz.md
+│   ├── module06-quiz.md
+│   ├── module07-quiz.md
+│   ├── module08-quiz.md
+│   ├── module09-quiz.md
 │   ├── module10-quiz.md
 │   ├── module11-quiz.md
 │   ├── module12-quiz.md
