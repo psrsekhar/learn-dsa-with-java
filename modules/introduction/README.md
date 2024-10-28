@@ -24,6 +24,14 @@ Big O notation is used to classify algorithms according to how their run time or
 - **O(n)**: Iterating through a list.
 - **O(n^2)**: Nested loops iterating over a 2D matrix.
 
+### Additional Considerations:
+
+- **Input Size**: The complexity analysis often assumes input size as a significant factor. In real-world scenarios, other factors like hardware, software optimizations, and specific input distributions can influence performance.
+- **Constant Factors**: While Big O notation focuses on asymptotic behavior, constant factors can impact performance, especially for smaller input sizes.
+- **Space Complexity**: In addition to memory usage, consider factors like garbage collection overhead and memory fragmentation.
+- **Algorithm Selection**: Choose algorithms that have the best time and space complexity for your specific use case.
+- **Optimization Techniques**: Explore techniques like memoization, caching, and algorithm-specific optimizations to improve performance.
+
 ---
 
 ### 2. Recursion
@@ -62,6 +70,6 @@ Write a recursive function to calculate the sum of numbers from 1 to n.
 Explain how recursion can be used to solve problems efficiently.
 
 ## Further Reading:
-- [Big O Cheat Sheet](https://www.bigocheatsheet.com/)
-- [Big O Cheat Sheet](https://bigocheatsheet.io/)
+- [Big O Cheat Sheet 1](https://www.bigocheatsheet.com/)
+- [Big O Cheat Sheet 2](https://bigocheatsheet.io/)
 - [Introduction to Algorithms - MIT](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/mit6_006s20_r01/)
